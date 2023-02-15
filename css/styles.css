@@ -13,6 +13,7 @@ header nav {
     padding: 10px;
     margin: 8px;
     border-radius: 5px;
+	font-family: 'Shrikhand', cursive;
 }
 
 header nav ul {
@@ -27,7 +28,43 @@ header nav ul li {
 	margin-top: .8%;
 }
 
-main {
+header nav ul li:hover {
+    text-decoration: underline;
+    background-color: black;
+    color: aliceblue;
+}
+
+body {
     background-color: burlywood;
     color: black;
+}
+
+footer {
+    background-color: lightblue;
+    color: black;
+}
+
+footer nav {
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+	font-family: 'Shrikhand', cursive;
+}
+
+footer nav ul {
+    display: block;
+    text-align: center;
+}
+
+footer nav ul li {
+    display: inline-block;
+	list-style: none;
+	width: 15%;
+	margin-top: .8%;
+}
+
+footer nav ul li:hover {
+    text-decoration: underline;
+    background-color: black;
+    color: aliceblue;
 }
