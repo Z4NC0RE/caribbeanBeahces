@@ -58,7 +58,12 @@ body {
 }
 
 body h2 {
-    font-size: 3.5em;
+    font-size: 3em;
+}
+
+body img {
+    max-height: 500px;
+    max-width: 500px;
 }
 
 body p {
