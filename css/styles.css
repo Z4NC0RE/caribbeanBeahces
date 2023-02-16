@@ -33,13 +33,13 @@ header nav ul li {
     font-size: 1.5em;
 }
 
-header nav ul li:hover {
+header nav ul li :hover {
     text-decoration: underline;
     background-color: black;
     color: aliceblue;
 }
 
-header nav ul li:visited {
+header nav ul li a:visited {
     color: black;
     background-color: lightblue;
 }
@@ -49,7 +49,7 @@ header nav ul li:visited {
 header h1 {
     font-size: 3em;
     font-weight: bold;
-    float: center;
+    text-align: center;
 }
 
 body {
