@@ -72,6 +72,10 @@ main p {
     font-size: 2em;
 }
 
+.newsletter {
+    float: right;
+}
+
 footer {
     background-color: lightblue;
     color: black;
