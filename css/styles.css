@@ -108,3 +108,7 @@ footer nav ul li:visited {
     color: black;
     background-color: lightblue;
 }
+
+footer h5 h6 h4 {
+    text-align: center;
+}
