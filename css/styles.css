@@ -74,7 +74,7 @@ main p {
 
 .newsletter {
     display: block;
-    margin-right: 75%;
+   padding: 50px;
 }
 
 footer {
