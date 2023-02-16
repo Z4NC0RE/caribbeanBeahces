@@ -55,6 +55,7 @@ header h1 {
 main {
     background-color: burlywood;
     color: black;
+    min-height: 800px;
 }
 
 main h2 {
