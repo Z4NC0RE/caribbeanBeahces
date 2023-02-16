@@ -39,9 +39,17 @@ header nav ul li:hover {
     color: aliceblue;
 }
 
+header nav ul li:visited {
+    color: black;
+    background-color: lightblue;
+}
+
+
+
 header h1 {
     font-size: 3em;
     font-weight: bold;
+    float: center;
 }
 
 body {
@@ -81,4 +89,9 @@ footer nav ul li:hover {
     text-decoration: underline;
     background-color: black;
     color: aliceblue;
+}
+
+footer nav ul li:visited {
+    color: black;
+    background-color: lightblue;
 }
