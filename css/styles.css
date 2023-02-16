@@ -73,7 +73,8 @@ main p {
 }
 
 .newsletter {
-    float: center;
+    display: block;
+    margin-right: auto;
 }
 
 footer {
