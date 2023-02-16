@@ -26,7 +26,10 @@ header nav ul li {
     display: inline-block;
 	list-style: none;
 	width: 15%;
-	margin-top: .8%;
+	margin-top: 5%;
+    text-decoration: none;
+    color: black;
+    background-color: lightblue;
 }
 
 header nav ul li:hover {
