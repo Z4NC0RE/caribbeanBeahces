@@ -89,6 +89,12 @@ main p {
     max-height: 500px;
 }
 
+#container label {
+    background-color: burlywood;
+    font-size: 2em;
+    color: black;
+}
+
 form {
     display: block;
     margin-top: 0em;
