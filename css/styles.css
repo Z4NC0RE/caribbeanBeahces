@@ -182,6 +182,6 @@ footer nav ul li a:visited {
     background-color: lightblue;
 }
 
-footer h4 h5 h6 {
+footer h4, footer h5, footer h6 {
     text-align: center;
 }
