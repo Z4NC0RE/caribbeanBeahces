@@ -171,13 +171,13 @@ footer nav ul li {
     font-size: 1.5em;
 }
 
-footer nav ul li:hover {
+footer nav ul li :hover {
     text-decoration: underline;
     background-color: black;
     color: aliceblue;
 }
 
-footer nav ul li:visited {
+footer nav ul li a:visited {
     color: black;
     background-color: lightblue;
 }
