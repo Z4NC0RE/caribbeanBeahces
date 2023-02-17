@@ -99,6 +99,11 @@ main p {
     background-color: lightblue;
 }
 
+#container td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
 #container input {
     height: 2em;
     width: 17em;
