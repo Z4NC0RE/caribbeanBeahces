@@ -118,7 +118,6 @@ tr {
     display: table-row;
     vertical-align: inherit;
     border-color: inherit;
-    background-color: lightblue;
 }
 
 td {
