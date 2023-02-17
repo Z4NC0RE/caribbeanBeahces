@@ -90,6 +90,12 @@ main p {
     border-collapse: separate;
     text-indent: initial;
     border-spacing: 1em;
+    box-sizing: initial;
+}
+
+#container tbody {
+    display: table-row-group;
+    vertical-align: middle;
 }
 
 #container tr {
@@ -115,6 +121,10 @@ main p {
     background-color: lightblue;
     color: black;
     border: 5px double black;
+}
+
+.frmbutton {
+    width: 10em;
 }
 
 footer {
