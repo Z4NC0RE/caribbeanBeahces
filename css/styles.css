@@ -72,9 +72,44 @@ main p {
     font-size: 2em;
 }
 
-.newsletter {
-    display: block;
-    padding: 40, 40, 0, 20px;
+#container {
+    max-width: 80%;
+    background-color: burlywood;
+    color: black;
+}
+
+#container img {
+    margin: auto;
+    float: left;
+    padding-right: 2%;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#container table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 1em;
+}
+
+#container tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    background-color: lightblue;
+}
+
+#container input {
+    height: 2em;
+    width: 17em;
+    border-radius: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: lightblue;
+    color: black;
+    border: 5px double black;
 }
 
 footer {
