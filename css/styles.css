@@ -86,31 +86,31 @@ main p {
     max-height: 500px;
 }
 
-#container table {
+table {
     border-collapse: separate;
     text-indent: initial;
     border-spacing: 1em;
     box-sizing: initial;
 }
 
-#container tbody {
+tbody {
     display: table-row-group;
     vertical-align: middle;
 }
 
-#container tr {
+tr {
     display: table-row;
     vertical-align: inherit;
     border-color: inherit;
     background-color: lightblue;
 }
 
-#container td {
+td {
     display: table-cell;
     vertical-align: inherit;
 }
 
-#container input {
+input {
     height: 2em;
     width: 17em;
     border-radius: 5px;
